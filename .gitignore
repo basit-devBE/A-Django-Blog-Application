@@ -1,0 +1,14 @@
+/Djangoennv
+db.sqlite3
+migrations
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+*.swp
+*.bak
+__init__.py
